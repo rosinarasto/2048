@@ -1,0 +1,19 @@
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.red .green {
+    color: yellow;
+}
+
+.purple {
+    color: purple;
+}
+
+#orange {
+    color: orange;
+}
